@@ -46,7 +46,7 @@ public class DistributoreBevande {
     	    System.out.println("la tua bevanda è stata erogata");
     	
     	    }else System.out.println("Credito non sufficente");
-    	}else System.out.println("Prodotto non disponibile");
+    	}else System.out.println("Prodotto non disponibile.");
     }
     }
     

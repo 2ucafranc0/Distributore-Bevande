@@ -35,7 +35,7 @@ public class Main {
 	
 	System.out.println("il tuo resto è:");
 	dB.visualizzaCredito();
-	System.out.println("Arrivederci");
+	System.out.println("Arrivederci e ciao");
 	}
 	
 
